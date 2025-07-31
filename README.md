@@ -39,7 +39,7 @@ Follow these steps to clone and set up the project:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/Movie-Recommendation-System-Using-Python-and-Pandas-master.git
+   git clone https://github.com/rajeevsingh3108/Film-Telligence.git
    ```
    Or download the ZIP and extract it.
 
